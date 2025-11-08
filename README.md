@@ -1,14 +1,15 @@
 Hi there, I'm Sunny Rai! 👋
 $-----------------------------$
 
-I'm a dedicated and enthusiastic Full-Stack Developer with a strong passion for building robust and scalable applications. 
+I'm a dedicated and enthusiastic learner and Full-Stack Developer with a strong passion for building robust and scalable applications. 
 #--------------------------------------------------------------------------------------------------------------------------------#
-I'm currently advancing my expertise through  M.sc in COMPUTER SCIENCE WITH Advanced Software Engineering at the University of Strathclyde,
------------------------------------focusing on cutting-edge software development practices. My core strengths lie in React, Node.js, Kotlin, and designing distributed systems.
+As a results-driven Full-Stack Software Engineer with an MSc in Advanced Computer Science from the University of Strathclyde,
+-----------------------------------focusing on cutting-edge software development practices. My core strengths lie in Python, React, Node.js, Kotlin, and designing distributed systems.
 
 🔧 My Toolkit
-Languages: JavaScript, Kotlin, Python, HTML, CSS 
-Frameworks & Tools: React, Node.js, Express, Android Studio, Git.
+Programming Languages: Java, JavaScript, Kotlin, Python, HTML, CSS 
+Frameworks & Tools : React, Node.js, Express, Android Studio, Git.
+Software Methodology : AGILE (CI/CD) , SPRINTS.
 Databases & Concepts: Distributed Systems, REST APIs, MongoDB, Docker, Database Management Systems.
 
 💼 Professional Experience
@@ -31,18 +32,20 @@ Prepared daily task reports.
 🌟 My Work
 Take a look at some of my recent projects:
 --------------------------------------------------------------------
-E-commerce Platform: A fully responsive online store demonstrating a complete MERN stack implementation (MongoDB, Express, React, Node.js). Live Demo
-Weather App: A sleek mobile application developed with Kotlin, providing real-time weather updates with a user-friendly interface. Live Demo
-Website: KSR Frontline Security Services: Developed with HTML, CSS, and Node.js (in Pug). Platform Used: Visual Studio.
-Student Guidance System: Developed in Java. Platform Used: Net-beans.
-Pocket Money Management System: Developed in C Language.
-Self-Monitoring System: Developed using .Net Technology. Platform Used: Microsoft Visual Basic.
-You can find more of my work in my GitHub repositories!
+> E-commerce Platform: A fully responsive online store demonstrating a complete MERN stack implementation (MongoDB, Express, React, Node.js). Live Demo
+> Weather App: A sleek mobile application developed with Kotlin, providing real-time weather updates with a user-friendly interface. Live Demo
+> WebApplication: KSR Frontline Security Services: Developed with HTML, CSS, and Node.js (in Pug). Platform Used: Visual Studio.
+> Student Guidance System: Developed in Java. Platform Used: Net-beans.
+> Pocket Money Management System: Developed in C Language.
+> Self-Monitoring System: Developed using .Net Technology. Platform Used: Microsoft Visual Basic.
+
+  You can find more about my work in my GitHub repositories!
 ---------------------------------------------------------------------
 🎓 Education
-Master of Science in Advanced Software Engineering
-University of Strathclyde (Currently Pursuing)
-Bachelors of Science - Information Technology
+> Master of Science in Advanced Software Engineering
+University of Strathclyde, Glassgow, Scotland, United Kingdom.
+
+> Bachelors of Science - Information Technology
 Uttaranchal University, Dehradun, India 
 July 2022 | 
 
@@ -56,9 +59,9 @@ Certificate for Participation in the Uttaranchal University Hackathon (26th - 27
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
 -------------------------------------------------------------------------------------
 Portfolio: sunnyrai-portfolio.com
-LinkedIn: linkedin.com/in/sunny-rai-352481209 
+LinkedIn: linkedin.com/in/sunny-rai 
 -----------------------------------------
-Email: sunny70692@gmail.com 
+Email: sunny.rai.2025tech@outlook.com
 Phone/WhatsUp me on:  +44-07399791196
 --------------------------
 
